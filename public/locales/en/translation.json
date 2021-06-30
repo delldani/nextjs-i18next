@@ -1,0 +1,9 @@
+{
+  "sentence1": "First sentence!",
+  "sayHi": "Hi greetings! The number is : {{count}}",
+  "sayHi_plural": "Hi greetings! The number is  already {{count}}",
+  "sayHi_elso": "Hi this is the first Context {{count}}",
+  "sayHi_elso_plural": "Hi this is the first Context,number is plural {{count}}",
+  "sentence3": "This is the 3. sentence {{text,alakitas}}",
+  "date": "The date is :  {{date,datum}}"
+}
